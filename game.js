@@ -1,5 +1,4 @@
-"use strict";
-// Shared deterministic course and authoritative simulation. Coordinates are world units.
+
 const HEIGHT = 540,
   SPEED = 145,
   GRAVITY = 900,
