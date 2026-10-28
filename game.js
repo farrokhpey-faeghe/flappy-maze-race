@@ -1,4 +1,4 @@
-
+"use strict";
 const HEIGHT = 540,
   SPEED = 145,
   GRAVITY = 900,
